@@ -4,7 +4,7 @@ The UnitedJobs API is a RESTful API for a job board website. It allows users to 
 
 ## API Documentation
 
-Documentation for the API can be found in the [API documentation](https://api.unitedjobs.org/docs) page.
+Documentation for the API can be found in the [API documentation](https://unitedjobs.org /docs) page.
 
 ## API Endpoints
 
