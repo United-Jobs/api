@@ -1,0 +1,77 @@
+{
+  "question_text": "What is the capital of France?",
+  "annotations": [
+    {
+      "long_answer": {
+        "start_token": 10,
+        "end_token": 14
+      }
+    }
+  ],
+  "document_tokens": [
+    {
+      "token": "The",
+      "html_token": false
+    },
+    {
+      "token": "capital",
+      "html_token": false
+    },
+    {
+      "token": "of",
+      "html_token": false
+    },
+    {
+      "token": "France",
+      "html_token": false
+    },
+    {
+      "token": "is",
+      "html_token": false
+    },
+    {
+      "token": "Paris",
+      "html_token": false
+    },
+    {
+      "token": ".",
+      "html_token": false
+    },
+    {
+      "token": "<p>",
+      "html_token": true
+    },
+    {
+      "token": "Paris",
+      "html_token": false
+    },
+    {
+      "token": "is",
+      "html_token": false
+    },
+    {
+      "token": "known",
+      "html_token": false
+    },
+    {
+      "token": "for",
+      "html_token": false
+    },
+    {
+      "token": "its",
+      "html_token": false
+    },
+    {
+      "token": "cultural",
+      "html_token": false
+    },
+    {
+      "token": "heritage",
+      "html_token": false
+    },
+    {
+      "token": ".",
+      "html_token": false
+    }
+  ]
+}
